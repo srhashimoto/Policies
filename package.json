@@ -1,0 +1,15 @@
+{
+  "name": "policies",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rit-inc-dev/policies",
+  "author": "GHKEN <tetsuya@ghken.com>",
+  "license": "MIT",
+  "scripts": {
+      "lint": "textlint *.md"
+  },
+  "dependencies": {
+    "textlint": "^11.5.0",
+    "textlint-rule-preset-japanese": "^4.0.4"
+  }
+}
